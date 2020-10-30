@@ -1,0 +1,21 @@
+let projects = [
+    {
+        id: '1',
+        title: 'Creative Agency',
+        detail: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, totam. Debitis repellendus laborum libero, sit corrupti aliquam fugit a. Modi doloribus vero magnam dolorum, eum laudantium omnis rem nisi eaque quam consequuntur veritatis numquam deserunt fugit id. Ipsum totam incidunt corporis ab eaque nesciunt rem, architecto est non dolorum reiciendis aspernatur praesentium fuga, libero nemo quasi soluta quisquam laudantium qui dignissimos? Omnis dolore, beatae distinctio repellendus optio, magni id voluptas velit corporis perferendis dicta dolor incidunt excepturi eius asperiores a eligendi. Deleniti soluta asperiores fugit a enim vel magni',
+        tools: ['React', 'Express','React Router','Rest Api','MongoDB','Heroku','HTML','javaScript','CSS'],
+        github : 'https://github.com/KhadizaRafa/creative-agency-client',
+        liveLink : 'creative-agency-92369.web.app/'
+    },
+    {
+        id: '2',
+        title: 'Travel Guru',
+        detail: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, totam. Debitis repellendus laborum libero, sit corrupti aliquam fugit a. Modi doloribus vero magnam dolorum, eum laudantium omnis rem nisi eaque quam consequuntur veritatis numquam deserunt fugit id. Ipsum totam incidunt corporis ab eaque nesciunt rem, architecto est non dolorum reiciendis aspernatur praesentium fuga, libero nemo quasi soluta quisquam laudantium qui dignissimos? Omnis dolore, beatae distinctio repellendus optio, magni id voluptas velit corporis perferendis dicta dolor incidunt excepturi eius asperiores a eligendi. Deleniti soluta asperiores fugit a enim vel magni',
+        tools: ['React', 'Express','React Router','Rest Api','MongoDB','Heroku','HTML','javaScript','CSS'],
+        github : 'https://github.com/KhadizaRafa/travel-guru',
+        liveLink : 'https://travel-guru-8a6c4.web.app'
+    }
+]
+
+
+export default projects;
